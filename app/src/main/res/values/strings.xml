@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">TickTask</string>
+    <string name="app_name">TickTask - zadania</string>
+    <string name="header">Lista grup zadań</string>
 </resources>
